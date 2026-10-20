@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.mimosa/
+.DS_Store
+*.log
+.check.mjs
+
+# 个人行程文档与航班截图：只在本地，不进公开仓库
+docs/04-*
+docs/05-*
+docs/06-*
+docs/07-*
+docs/assets/
+docs/日本旅行计划*
+# 独立的个人旅行手册（伊豆/潮汕）：另有各自仓库，不随产品公开
+trips/
